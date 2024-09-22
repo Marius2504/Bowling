@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3  # nr clase
+names: ['bowling-ball','bowling-pins','sweep board']  # numele claselor
